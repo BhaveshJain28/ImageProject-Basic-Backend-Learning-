@@ -89,7 +89,7 @@ PixelPost/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pixelpost.git
+git clone https://github.com/BhaveshJain28/pixelpost.git
 cd pixelpost
 ```
 
